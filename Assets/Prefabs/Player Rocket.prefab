@@ -430,7 +430,7 @@ Rigidbody:
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 56
+  m_Constraints: 120
   m_CollisionDetection: 0
 --- !u!65 &8215014806190909884
 BoxCollider:
@@ -451,8 +451,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 1.47, y: 1.8, z: 1}
-  m_Center: {x: 0.1, y: 0.43, z: 0}
+  m_Size: {x: 1.08, y: 1.45, z: 0.74}
+  m_Center: {x: 0.1, y: 0.26, z: -0.13}
 --- !u!82 &5215799622728071995
 AudioSource:
   m_ObjectHideFlags: 0
@@ -466,7 +466,7 @@ AudioSource:
   m_audioClip: {fileID: 8300000, guid: 82486d4e77c0abf45a92b93104653bac, type: 3}
   m_Resource: {fileID: 8300000, guid: 82486d4e77c0abf45a92b93104653bac, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 1
+  m_Volume: 0.5
   m_Pitch: 1
   Loop: 0
   Mute: 0
